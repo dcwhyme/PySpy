@@ -48,3 +48,4 @@ venv/
 
 *.pdf
 *.db*
+/venv2/
